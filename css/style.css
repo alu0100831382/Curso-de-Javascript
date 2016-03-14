@@ -1,0 +1,24 @@
+#dado {
+  color:green;
+  font-family: 'Courier New', Courier, monospace;
+  font-size:10em;
+  border:solid;
+  border-color:black;
+  width:15%;
+  text-align:center;
+  background-color:#FAEBD7;
+  margin:auto;
+}
+
+#boton {
+  margin-top:10px; 
+}
+
+.dadete {
+  text-align:center;
+}
+
+h1 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:1.5em;
+}
